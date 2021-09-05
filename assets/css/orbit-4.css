@@ -21,9 +21,7 @@ body {
 }
 
 h1,
-h2 {
-  font-weight: 800;
-},
+h2,
 h3,
 h4,
 h5,
@@ -215,7 +213,7 @@ p {
 }
 .main-wrapper .job-title {
   color: #3f4650;
-  font-size: 16px;
+  font-size: 20px;
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 500;
